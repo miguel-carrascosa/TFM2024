@@ -3,6 +3,7 @@
 ## Archivos de python
 - El archivo "TFM Scraping.ipynb" recoge todos los datos de los barcos publicados en el portal de venta, con la excepción de la variable "price".
 - El archivo "TFM Scraping2.ipynb" recoge el nombre de los barcos y la variable "price".
+- 
 En el Trabajo de Fin de Máster se utilizan los datos que fueron recopilados mediante la ejecución de ambos scripts durante el día 24 de enero del 2024. Además, todas las observaciones y variables se guardaron respectivamente en los archivos "Barcos_bruto.csv" y "Barcos_precios.csv".
 
 ## Archivos de R
